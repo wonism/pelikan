@@ -1,2 +1,2 @@
-add_subdirectory(data)
 add_subdirectory(admin)
+add_subdirectory(data)
